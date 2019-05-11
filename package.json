@@ -1,0 +1,23 @@
+{
+  "name": "battledog-web-s2",
+  "version": "0.1",
+  "description": "w3win(spex) github page",
+  "repository": "https://github.com/w3win/w3win.github.io",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-spring": "^8.0.20",
+    "styled-components": "^4.2.0"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.10.0"
+  }
+}
